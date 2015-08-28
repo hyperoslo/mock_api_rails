@@ -5,12 +5,12 @@ require 'mock_api_rails/version'
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = 'mock_api_rails'
+  s.name        = 'mock-api-rails'
   s.version     = MockApiRails::VERSION
   s.authors     = ['Felipe Espinoza']
   s.email       = ['ruby@hyper.no']
   s.homepage    = 'TODO'
-  s.summary     = 'TODO: Summary of MockApiRails.'
+  s.summary     = 'Quickly define/publish mocks for rails APIs'
   s.description = 'TODO: Description of MockApiRails.'
   s.license     = 'MIT'
 

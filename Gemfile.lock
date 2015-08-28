@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    mock_api_rails (0.0.1)
+    mock_api-rails (0.0.1)
       rails (~> 4.2.4)
 
 GEM
@@ -122,7 +122,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  mock_api_rails!
+  mock_api-rails!
   rspec (= 3.2.0)
   rspec-rails
 
