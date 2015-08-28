@@ -5,7 +5,7 @@ RSpec.describe 'ApiPosts', type: :request do
     it 'returns the list of posts in the system' do
       get '/api/posts'
       expect(response).to have_http_status(200)
-      json = JSON.load(response.response_body).symbolize_keys
+      json = JSON.load(response.body).deep_symbolize_keys
       expect(json).to eq(
         posts: [
           {

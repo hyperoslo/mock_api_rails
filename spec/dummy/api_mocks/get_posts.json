@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "You know what it is awesome?",
+      "content": "Everything"
+    },
+    {
+      "id": 2,
+      "title": "Full Stack Fest will be cool",
+      "content": "Because the @hyperoslo crew is going!"
+    }
+  ]
+}
