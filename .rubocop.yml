@@ -1,0 +1,8 @@
+AllCops:
+  Include:
+    - '**/Rakefile'
+    - '**/config.ru'
+  Exclude:
+    - 'bin/*'
+Style/Documentation:
+  Enabled: false
