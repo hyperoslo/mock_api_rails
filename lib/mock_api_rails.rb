@@ -1,5 +1,5 @@
 require 'mock_api_rails/engine'
-require 'router_extensions'
+require 'mock_api_rails/router_extensions'
 
 module MockApiRails
 end
