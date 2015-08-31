@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ['ruby@hyper.no']
   s.homepage    = 'https://github.com/hyperoslo/mock_api-rails'
   s.summary     = 'Quickly define/publish mocks for rails APIs'
-  s.description = 'It has conveniance methods to quickly publish APIs'
+  s.description = 'Quickly define/publish mocks for rails APIs'
   s.license     = 'MIT'
 
   s.files = Dir[
